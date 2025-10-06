@@ -39,7 +39,7 @@ A scalable Node.js-based workforce management system built with Express.js, MySQ
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aradhik11/workforce_management_system.git
 cd workforce-management
 ```
 
@@ -207,14 +207,3 @@ The system includes comprehensive error handling:
 - Structured logging
 - Graceful shutdown
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
-
-## License
-
-MIT License
