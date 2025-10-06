@@ -39,7 +39,7 @@ A scalable Node.js-based workforce management system built with Express.js, MySQ
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Aradhik11/workforce_management_system.git
+git clone https://github.com/Aradhik11/Abdur-Rahmon-Dhikrullah.git
 cd workforce-management
 ```
 
